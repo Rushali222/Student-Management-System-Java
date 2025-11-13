@@ -13,19 +13,6 @@ smooth and reliable data handling.
 - Java Swing-based user interface  
 - JDBC connectivity with MySQL  
 
-## Project Structure
-
-src/
-├── Main.java
-├── model/
-│ └── Student.java
-├── dao/
-│ ├── DBConnection.java
-│ └── StudentDAO.java
-└── ui/
-└── SwingAdminDashboard.java
-
-
 ## How to Run
 
 1. Install Java and MySQL on your system.  
